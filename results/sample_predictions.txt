@@ -1,0 +1,31 @@
+Sample Validation Predictions Report:
+============================================================
+
+Message: I need information about the payment process.
+True Label: neutral
+Baseline Prediction: neutral
+LSTM Prediction: neutral
+------------------------------------------------------------
+
+Message: My refund is still pending and this experience is frustrating.
+True Label: negative
+Baseline Prediction: negative
+LSTM Prediction: negative
+------------------------------------------------------------
+
+Message: Great service and clear communication from the support team.
+True Label: positive
+Baseline Prediction: positive
+LSTM Prediction: positive
+------------------------------------------------------------
+
+Message: Please tell me how to update my account details.
+True Label: neutral
+Baseline Prediction: neutral
+LSTM Prediction: neutral
+------------------------------------------------------------
+
+Message: The internet speed is slow and customer care is not helping.
+True Label: negative
+Baseline Prediction: negative
+LSTM Prediction: negative
